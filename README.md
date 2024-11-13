@@ -8,7 +8,6 @@ Sistem Beasiswa AHP (Analytic Hierarchy Process) adalah aplikasi berbasis web ya
 
 - **Bahasa Pemrograman**: PHP (versi >5.5 atau 8)
 - **Database**: MySQL
-- **Framework**: (Jika ada, sebutkan di sini)
 - **Fitur Utama**:
   - Pengelolaan data calon penerima beasiswa
   - Kriteria penilaian menggunakan metode AHP
