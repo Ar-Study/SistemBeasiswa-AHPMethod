@@ -42,7 +42,5 @@ Sebelum menjalankan aplikasi ini, pastikan Anda telah memenuhi persyaratan berik
 - Penilaian: Lakukan penilaian berdasarkan kriteria yang telah ditentukan
 - Laporan: Lihat hasil seleksi penerima beasiswa
 
-.. image::![image](https://github.com/user-attachments/assets/cb725c93-7ad6-47c8-acbd-d9d60f477f17)
- :alt: Screenshot
-.. image:: https://github.com/Ar-Study/CommunityProfile-CodeIgniter3/assets/72682729/50440213-0868-4b8b-a297-df9899e8ec57
-   :alt: Screenshot
+![image](https://github.com/user-attachments/assets/cb725c93-7ad6-47c8-acbd-d9d60f477f17)
+
